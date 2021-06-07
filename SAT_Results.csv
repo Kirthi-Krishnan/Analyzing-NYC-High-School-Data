@@ -1,0 +1,95 @@
+
+Data Dictionary - Dataset Information,
+
+General,
+Dataset Name,SAT Results
+Agency Name,New York City Department of Education
+Update Frequency,Historical
+Dataset Description,"SAT Statistics, Math, Reading, Writing average scores by school"
+Dataset Keywords,
+Dataset Category,Education
+Detailed Description,
+"List any additional information in order to provide context to the data for someone not familiar with your agency's operations. 
+    ",
+"Why is this data collected?
+
+How is this data collected?
+
+What does each record represent?
+
+How can this data be used?
+
+What are the idiosyncrasies or limitations of the data to be aware of?",
+
+
+
+Form V 1.1,
+Data Dictionary - Column Information,,,
+Column Name,Column Description,"Term, Acronym, or Code Definitions","Additional Notes 
+(where applicable, include the  range of possible values, units of measure, how to interpret null/zero values, whether there are specific relationships between columns, and information on column source)"
+DBN,"District, Borough, School number ",,
+School Name ,Official School Name,,
+Num of SAT Test Takers,Number of people who took SAT Test ,,
+SAT Critical Reading Avg Score,SAT reading avergage score,,
+SAT Math Avg. Score,SAT Math average score,,
+SAT Writing AVG Score,SAT Writing average score,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Data Dictionary - Revision History
+Description of all changes to the format, data, or method of collection that have taken place since the initial release.",,,,,,,,,,,,,,,,,
+Version ,Date,Change Highlights,Comments,,,,,,,,,,,,,,
+
+
+
+
+
+
+
+
+
+
+
+
+Dropdown Options,
+Update Frequency,Annually
+,Biannually
+,Triannually
+,Quarterly
+,Monthly
+,Bimonthly
+,Weekly
+,Biweekly
+,Daily
+,Several times per day
+,As needed
+,Historical
+Dataset Category,Business
+,City Government
+,Education
+,Environment
+,Health
+,Housing & Development
+,Public Safety
+,Recreation
+,Social Services
+,Transportation
